@@ -1,0 +1,8 @@
+{
+  "name": "booking.biz.id",
+  "description": "Imported from GitHub: roywikan/parenting-my-id",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
